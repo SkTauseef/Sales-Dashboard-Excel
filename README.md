@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Excel Project)
+# 📊 ⭐ Excel Dashboard Project for Data Analysis
 
 ## 📌 Project Overview
 
@@ -7,6 +7,8 @@ This project focuses on analyzing sales data and building an interactive dashboa
 The objective is to understand sales performance across categories, regions, and time, and present insights through a clean and interactive dashboard.
 
 ---
+
+
 
 ## 🛠 Tools Used
 
@@ -87,6 +89,10 @@ The dataset contains sales records with the following fields:
 ## 📸 Dashboard Preview
 
 (<img width="887" height="527" alt="image" src="https://github.com/user-attachments/assets/4d2aece3-4583-4083-8178-06661b292c17" />)
+
+#West region consistently outperforms others, indicating strong market demand
+#Technology category is the primary revenue driver
+#Sales show fluctuations across months, suggesting seasonal pattern
 
 ---
 
